@@ -1,0 +1,26 @@
+{
+  "name": "price-comparator-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruvdutt/price-comparator-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruvdutt/price-comparator-api/issues"
+  },
+  "homepage": "https://github.com/dhruvdutt/price-comparator-api#readme",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "scraperjs": "^1.2.0"
+  }
+}
